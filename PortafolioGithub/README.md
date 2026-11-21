@@ -75,9 +75,11 @@ Trabajo con metodologías ágiles y control de versiones orientado a buenas prá
 
 | Proyecto | Descripción | Enlace |
 | :--- | :--- | :--- |
-| **Wild Store** | Mascota virtual interactiva construida en JavaScript, HTML y CSS aplicando patrones de diseño (State, Strategy y Observer). | [Código en GitHub](https://github.com/carol104/Wild-Store) |
-| **Simulador de Crédito** | Sistema de simulación crediticia estructurado por capas (dominio, aplicación e infraestructura) con interfaces .NET y Blazor. | [Código en GitHub](https://github.com/carol104/SimuladorCredito) |
-| **Sistema de Docentes** | Plataforma de gestión y seguimiento docente desarrollada sobre la plataforma .NET. | [Código en GitHub](https://github.com/carol104/SistemaDocentesProyecto) |
+| **Wild Store** | Mascota virtual interactiva construida con JavaScript, HTML y CSS aplicando patrones de diseño (State, Strategy y Observer). | [Código en GitHub](https://github.com/carol104/Wild-Store) |
+| **DinoPet** | Simulación y juego de mascota virtual enfocado en mecánicas de interacción y gestión de estados. | [Código en GitHub](https://github.com/carol104/DinoPet) |
+| **ReciclApp** | Aplicación orientada a la gestión, clasificación y fomento del reciclaje y la sostenibilidad. | [Código en GitHub](https://github.com/carol104/ReciclApp) |
+| **UTAPost** | Aplicación móvil para difusión, publicaciones y gestión informativa en la comunidad universitaria. | [Código en GitHub](https://github.com/carol104/UTAPost-Movil) |
+| **Simulador de Crédito** | Sistema de simulación crediticia con arquitectura por capas (dominio, aplicación e infraestructura) en .NET y Blazor. | [Código en GitHub](https://github.com/carol104/SimuladorCredito) |
 
 ---
 
