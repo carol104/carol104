@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0e17" />
+      <stop offset="50%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#020617" />
+    </linearGradient>
+
+    <!-- Glow Gradients -->
+    <radialGradient id="glow-cyan" cx="15%" cy="30%" r="60%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.22" />
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="glow-purple" cx="85%" cy="70%" r="65%">
+      <stop offset="0%" stop-color="#818cf8" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#818cf8" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Grid Pattern -->
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#334155" stroke-width="0.6" stroke-opacity="0.3" />
+      <circle cx="30" cy="30" r="1" fill="#475569" fill-opacity="0.4" />
+    </pattern>
+
+    <!-- Border Linear Gradient -->
+    <linearGradient id="border-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.5" />
+      <stop offset="50%" stop-color="#818cf8" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#c084fc" stop-opacity="0.5" />
+    </linearGradient>
+
+    <!-- Accent Line Gradient -->
+    <linearGradient id="line-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#818cf8" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#c084fc" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .font-mono { font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace; }
+    .font-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+    .title { font-weight: 800; letter-spacing: -0.02em; }
+    .sub { font-weight: 400; letter-spacing: 0.05em; }
+    .tag { font-weight: 500; letter-spacing: 0.08em; }
+  </style>
+
+  <!-- Background Base -->
+  <rect width="900" height="220" rx="14" fill="url(#bg-grad)" />
+  <rect width="900" height="220" rx="14" fill="url(#grid)" />
+  <rect width="900" height="220" rx="14" fill="url(#glow-cyan)" />
+  <rect width="900" height="220" rx="14" fill="url(#glow-purple)" />
+
+  <!-- Subtle Border Stroke -->
+  <rect width="898" height="218" x="1" y="1" rx="13" fill="none" stroke="url(#border-grad)" stroke-width="1.2" />
+
+  <!-- Geometric Abstract Tech Graphic (Right Side) -->
+  <g transform="translate(640, 20)" opacity="0.65">
+    <!-- Concentric geometric shapes -->
+    <circle cx="120" cy="90" r="75" fill="none" stroke="#38bdf8" stroke-opacity="0.15" stroke-dasharray="4 6" />
+    <circle cx="120" cy="90" r="52" fill="none" stroke="#818cf8" stroke-opacity="0.25" />
+    <circle cx="120" cy="90" r="30" fill="none" stroke="#c084fc" stroke-opacity="0.35" stroke-dasharray="2 4" />
+
+    <!-- Isometric / grid lines -->
+    <path d="M 40 90 L 200 90" stroke="#38bdf8" stroke-opacity="0.3" stroke-width="1" />
+    <path d="M 120 10 L 120 170" stroke="#38bdf8" stroke-opacity="0.3" stroke-width="1" />
+    <path d="M 65 35 L 175 145" stroke="#818cf8" stroke-opacity="0.25" stroke-width="1" />
+    <path d="M 65 145 L 175 35" stroke="#818cf8" stroke-opacity="0.25" stroke-width="1" />
+
+    <!-- Tech Nodes -->
+    <circle cx="120" cy="90" r="4" fill="#38bdf8" />
+    <circle cx="120" cy="38" r="3" fill="#818cf8" />
+    <circle cx="172" cy="90" r="3" fill="#c084fc" />
+    <circle cx="68" cy="90" r="3" fill="#38bdf8" />
+    <circle cx="120" cy="142" r="3" fill="#818cf8" />
+    <circle cx="157" cy="53" r="2.5" fill="#38bdf8" opacity="0.8" />
+    <circle cx="83" cy="127" r="2.5" fill="#c084fc" opacity="0.8" />
+  </g>
+
+  <!-- Left Content Area -->
+  <!-- Top Terminal Badge -->
+  <g transform="translate(60, 42)">
+    <rect width="186" height="24" rx="12" fill="#1e293b" fill-opacity="0.75" stroke="#334155" stroke-width="1" />
+    <circle cx="14" cy="12" r="3.5" fill="#10b981" />
+    <text x="26" y="16" class="font-mono tag" fill="#94a3b8" font-size="10.5">FULL STACK DEVELOPER</text>
+  </g>
+
+  <!-- Name -->
+  <text x="60" y="112" class="font-sans title" fill="#f8fafc" font-size="34">CAROL CAÑIZARES</text>
+
+  <!-- Accent underline bar -->
+  <rect x="60" y="126" width="320" height="2.5" rx="1.25" fill="url(#line-grad)" />
+
+  <!-- Description / Subtitle -->
+  <text x="60" y="156" class="font-sans sub" fill="#94a3b8" font-size="14.5">
+    Ingeniería de Software <tspan fill="#475569">|</tspan> Desarrollo Web, APIs y Calidad de Software
+  </text>
+
+  <!-- Focus areas shown as plain text -->
+  <text x="60" y="186" class="font-mono" fill="#38bdf8" font-size="11.5">
+    Frontend · Backend · Testing · Data
+  </text>
+</svg>
