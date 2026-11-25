@@ -5,8 +5,7 @@
 <br /><br />
 
 [![GitHub](https://img.shields.io/badge/GitHub-carol104-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carol104)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carol-ca%C3%B1izares-villac%C3%ADs-1518833ba/)
-![Perfil](https://komarev.com/ghpvc/?username=carol104&style=for-the-badge&color=8b5cf6&label=VISITAS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carol-ca%C3%B1izares-villac%C3%ADs-1518833ba/)
 
 <br />
 
@@ -128,10 +127,10 @@ Trabajo con metodologías ágiles y control de versiones orientado a buenas prá
 
 | Proyecto | Descripción | Enlace |
 | :--- | :--- | :--- |
-| **Wild Store** | Mascota virtual interactiva construida con JavaScript, HTML y CSS aplicando patrones de diseño (State, Strategy y Observer). | [Código en GitHub](https://github.com/carol104/Wild-Store) |
-| **DinoPet** | Simulación y juego de mascota virtual enfocado en mecánicas de interacción y gestión de estados. | [Código en GitHub](https://github.com/carol104/DinoPet) |
-| **ReciclApp** | Aplicación orientada a la gestión, clasificación y fomento del reciclaje y la sostenibilidad. | [Código en GitHub](https://github.com/carol104/ReciclApp) |
-| **UTAPost** | Aplicación móvil para difusión, publicaciones y gestión informativa en la comunidad universitaria. | [Código en GitHub](https://github.com/carol104/UTAPost-Movil) |
+| **Wild Store** | Mascota virtual interactiva construida con JavaScript, HTML y CSS aplicando patrones de diseño (State, Strategy y Observer). | [Repositorio](https://github.com/carol104/Wild-Store) |
+| **DinoPet** | Simulación y juego de mascota virtual enfocado en mecánicas de interacción y gestión de estados. | [Repositorio](https://github.com/carol104/DinoPet) |
+| **ReciclApp** | Aplicación orientada a la gestión, clasificación y fomento del reciclaje y la sostenibilidad. | [Repositorio](https://github.com/carol104/ReciclApp) |
+| **UTAPost** | Aplicación móvil para difusión, publicaciones y gestión informativa en la comunidad universitaria. | [Repositorio](https://github.com/carol104/UTAPost-Movil) |
 
 ---
 

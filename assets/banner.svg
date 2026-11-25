@@ -100,6 +100,6 @@
 
   <!-- Focus areas shown as plain text -->
   <text x="60" y="186" class="font-mono" fill="#38bdf8" font-size="11.5">
-    Frontend · Backend · Testing · Data
+    React · Node.js · PostgreSQL
   </text>
 </svg>
