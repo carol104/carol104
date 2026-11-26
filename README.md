@@ -23,9 +23,17 @@ Trabajo con metodologías ágiles y control de versiones orientado a buenas prá
 
 ---
 
+<div align="center">
+
+<img src="assets/flow.svg" alt="Flujo animado: ideas, código y soluciones" width="100%" />
+
+</div>
+
 ## Stack tecnológico
 
 #### Lenguajes
+
+![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -36,11 +44,15 @@ Trabajo con metodologías ágiles y control de versiones orientado a buenas prá
 
 #### Frontend
 
+![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
+![GreenSock Animation Platform (GSAP)](https://img.shields.io/badge/GreenSock%20Animation%20Platform%20%28GSAP%29-0AE448?style=for-the-badge&logo=gsap&logoColor=black)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Ionic Framework](https://img.shields.io/badge/Ionic%20Framework-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
@@ -49,14 +61,24 @@ Trabajo con metodologías ágiles y control de versiones orientado a buenas prá
 
 #### Backend
 
+![Spring Data](https://img.shields.io/badge/Spring%20Data-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Prisma ORM](https://img.shields.io/badge/Prisma%20ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Java Servlet](https://img.shields.io/badge/Java%20Servlet-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
+![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+
+#### Aplicaciones de escritorio
+
+![Java Swing](https://img.shields.io/badge/Java%20Swing-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java AWT](https://img.shields.io/badge/Java%20AWT-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 #### Bases de datos
 
@@ -68,6 +90,8 @@ Trabajo con metodologías ágiles y control de versiones orientado a buenas prá
 
 #### Calidad y pruebas
 
+![Artillery](https://img.shields.io/badge/Artillery-E11B23?style=for-the-badge&logo=artillery&logoColor=white)
+
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
@@ -76,6 +100,8 @@ Trabajo con metodologías ágiles y control de versiones orientado a buenas prá
 ![Normas ISO](https://img.shields.io/badge/Normas%20ISO-0F766E?style=for-the-badge&logoColor=white)
 
 #### CI/CD y despliegue
+
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -98,24 +124,34 @@ Trabajo con metodologías ágiles y control de versiones orientado a buenas prá
 
 #### Administración e integración de datos
 
-![SQL Server Management Studio](https://img.shields.io/badge/SQL%20Server%20Management%20Studio-0F766E?style=for-the-badge&logoColor=white)
-![SQL Server Integration Services (SSIS)](https://img.shields.io/badge/SQL%20Server%20Integration%20Services%20%28SSIS%29-0F766E?style=for-the-badge&logoColor=white)
-![PhpMyAdmin](https://img.shields.io/badge/PhpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+![SQL Server Management Studio (SSMS)](https://img.shields.io/badge/SQL%20Server%20Management%20Studio%20%28SSMS%29-CC292B?style=for-the-badge&logoColor=white)
+![SQL Server Integration Services (SSIS)](https://img.shields.io/badge/SQL%20Server%20Integration%20Services%20%28SSIS%29-CC292B?style=for-the-badge&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/PhpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 
 #### Herramientas de desarrollo
+
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=apacheant&logoColor=white)
 
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel V0](https://img.shields.io/badge/Vercel%20V0-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Vercel v0](https://img.shields.io/badge/Vercel%20V0-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+#### Inteligencia artificial
+
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 #### Gestión y colaboración
 
 ![Scrum](https://img.shields.io/badge/Scrum-0F766E?style=for-the-badge&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Jira](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 #### Sistemas y seguridad
+
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Seguridad de redes](https://img.shields.io/badge/Seguridad%20de%20redes-0F766E?style=for-the-badge&logoColor=white)

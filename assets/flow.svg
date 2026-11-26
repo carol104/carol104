@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 90" role="img" aria-labelledby="title desc">
+  <title id="title">De las ideas a las soluciones</title>
+  <desc id="desc">Partículas de luz recorren un flujo de ideas, código y soluciones.</desc>
+  <defs><linearGradient id="line"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#c084fc"/></linearGradient></defs>
+  <rect width="900" height="90" rx="14" fill="#0f172a"/>
+  <path d="M100 57 H800" stroke="url(#line)" stroke-opacity=".3" fill="none"/>
+  <path d="M100 57 H800" stroke="url(#line)" stroke-width="2" stroke-dasharray="12 88" fill="none"><animate attributeName="stroke-dashoffset" from="0" to="-200" dur="8s" repeatCount="indefinite"/></path>
+  <g fill="#cbd5e1" font-family="Segoe UI,Arial,sans-serif" font-size="13" text-anchor="middle">
+    <text x="150" y="31">IDEAS</text><text x="450" y="31">CÓDIGO</text><text x="750" y="31">SOLUCIONES</text>
+  </g>
+  <g fill="#38bdf8"><circle cx="150" cy="57" r="5"/><circle cx="450" cy="57" r="5" fill="#818cf8"/><circle cx="750" cy="57" r="5" fill="#c084fc"/></g>
+  <circle cx="150" cy="57" r="11" fill="none" stroke="#38bdf8"><animate attributeName="opacity" values=".7;.15;.7" dur="4s" repeatCount="indefinite"/></circle>
+  <circle cx="750" cy="57" r="11" fill="none" stroke="#c084fc"><animate attributeName="opacity" values=".15;.7;.15" dur="4s" repeatCount="indefinite"/></circle>
+</svg>
